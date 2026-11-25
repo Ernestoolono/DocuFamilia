@@ -1,0 +1,10 @@
+NOMBRE DEL PROYECTO: DocuFamilia
+
+PROBLEMA:
+Muchas personas tienen dificultades para organizar, almacenar y compartir sus documentos personales. Los documentos físicos pueden extraviarse, dañarse o ser difíciles de localizar cuando algún familiar los necesita.
+
+OBJETIVO:
+Desarrollar un sistema que permita digitalizar, almacenar y organizar documentos personales de manera sencilla y segura, ofreciendo la posibilidad de compartirlos con familiares mediante autorización del propietario.
+
+DESCRIPCIÓN:
+DocuFamilia es un sistema de gestión de documentos personales que permite almacenar versiones digitales de documentos importantes, como CURP, INE, actas de nacimiento y comprobantes de domicilio. También permite compartir documentos con familiares, manteniendo el control sobre quién puede consultarlos mediante permisos otorgados por el propietario.
